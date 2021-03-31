@@ -26,7 +26,7 @@
 
 
 * Continuar na Aula:
-    - 02. Buscando produtos do banco e melhorando o visual
-        - 01.Exibindo produtos do banco
+    - 04. Melhorando o código visual
+        - 03. Deletando um Produto.
 
 * ...
