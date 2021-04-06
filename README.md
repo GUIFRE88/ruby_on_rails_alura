@@ -26,7 +26,6 @@
 
 
 * Continuar na Aula:
-    - 04. Melhorando o código visual
-        - 03. Deletando um Produto.
+    - Ruby on Rails 5 parte 2: Validação, atualização, partials e deploy
 
 * ...
