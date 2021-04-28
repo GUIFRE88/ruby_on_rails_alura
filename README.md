@@ -28,4 +28,7 @@
 * Continuar na Aula:
     - Ruby on Rails 5 parte 2: Validação, atualização, partials e deploy
 
+      02. Tradução e Scaffold
+          02. Scaffold de departamentos
+               5:42
 * ...
